@@ -8,7 +8,7 @@ README dosyası,bir adet de index.html barındırıyor.
 Öncelikle projeyi clonlayın.
 
 ```
-https://github.com/yildizhanyazar/kodluyoruzilkrepo.git
+https://github.com/gokcenur48/kodluyoruzilkrepo.git
 ```
 
 # Usage
@@ -30,6 +30,8 @@ istediğinizi tartışmak için bir konu açınız.
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
 ![indir](./indir.png)
 
 [Patika dev linki](https://www.patika.dev/tr)
