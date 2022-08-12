@@ -30,7 +30,6 @@ istediğinizi tartışmak için bir konu açınız.
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-![v1](./v1.png)
+![indir](./indir.png)
 
 [Patika dev linki](https://www.patika.dev/tr)
